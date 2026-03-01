@@ -1,0 +1,22 @@
+## Exercise
+## What is more likely?
+
+## Instructions
+## - Four different scenarios are given.
+## - Determine the probability of each scenario.
+## - Select the event that is most likely to occur.
+
+## Possible Answers
+## - Scoring 90% or more in an exam,
+##   when only 5% of students score this highly.
+## - A restaurant receiving an order for a steak,
+##   where steak orders have made up 100 out of 1000 total orders.
+## - Picking a red card out of a standard pack of 52 playing cards,
+##   where half of the cards are red and half are black.
+## - Drawing a person's name out of a hat
+##   that also contains 19 other names.
+
+## MY SOLUTION:
+
+## - Picking a red card out of a standard pack of 52 playing cards,
+##   where half of the cards are red and half are black.
