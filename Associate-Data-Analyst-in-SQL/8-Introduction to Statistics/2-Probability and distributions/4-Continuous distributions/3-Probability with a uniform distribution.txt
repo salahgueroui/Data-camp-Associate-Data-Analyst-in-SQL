@@ -1,0 +1,30 @@
+## Exercise
+## Probability with a uniform distribution
+
+## Instructions
+## - Use the continuous uniform distribution shown.
+## - Calculate the probability that the next train arrives
+##   between 5 and 13 minutes.
+## - Select the correct answer from the options below.
+
+## Given Information
+## - The wait time follows a continuous uniform distribution.
+## - The minimum wait time is 0 minutes.
+## - The maximum wait time is 20 minutes.
+## - The graph shows a constant probability density
+##   across the interval from 0 to 20 minutes.
+
+## Question
+## What is the probability that the next train
+## arrives between 5 and 13 minutes?
+
+## Possible Answers
+## - 5%
+## - 40%
+## - 80%
+## - 30%
+
+## MY SOLUTION:
+
+(13-5)*0.05
+## - 40%

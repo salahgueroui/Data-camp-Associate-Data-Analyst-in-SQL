@@ -1,0 +1,21 @@
+## Exercise
+## Finding the normal distribution
+
+## Instructions
+## - Four plots are shown: A, B, C, and D.
+## - Identify which plot most closely represents
+##   a normal distribution.
+## - Recall that a normal distribution is:
+##   symmetric,
+##   bell-shaped,
+##   and centered around the mean.
+
+## Possible Answers
+## - A
+## - B
+## - C
+## - D
+
+## MY SOLUTION:
+
+## - B
