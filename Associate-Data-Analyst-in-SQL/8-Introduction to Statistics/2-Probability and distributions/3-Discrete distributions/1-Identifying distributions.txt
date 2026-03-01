@@ -1,0 +1,17 @@
+## Exercise
+## Identifying distributions
+
+## Instructions
+## - Three sample distributions are shown: A, B, and C.
+## - Determine which sample is most likely
+##   drawn from a uniform distribution.
+## - Select the correct answer.
+
+## Possible Answers
+## - A
+## - B
+## - C
+
+## MY SOLUTION:
+
+## - B

@@ -1,0 +1,25 @@
+## Exercise
+## Sample mean vs. Theoretical mean
+
+## Given Information
+## - The distribution is discrete uniform:
+##   numbers from 1 through 9.
+## - The expected (theoretical) mean is 5.
+## - You win $20 if the sample mean is less than 4.
+## - You can choose the sample size.
+
+## Instructions
+## - Consider how sample size affects variability.
+## - Smaller samples have more variability in their mean.
+## - Larger samples are more likely to be close to 5.
+## - Select the sample size
+##   most likely to produce a mean less than 4.
+
+## Possible Answers
+## - 10
+## - 100
+## - 1000
+## - 5000
+## - 10000
+
+## MY SOLUTION:
