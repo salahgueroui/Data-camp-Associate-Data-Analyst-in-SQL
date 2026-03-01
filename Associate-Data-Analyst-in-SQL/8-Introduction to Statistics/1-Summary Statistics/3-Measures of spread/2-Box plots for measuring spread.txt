@@ -1,0 +1,17 @@
+## Exercise
+## Box plots for measuring spread
+
+## Instructions
+## - Use the box plot to determine which crime type
+##   has the largest interquartile range (IQR).
+## - Select the correct answer.
+
+## Possible Answers
+## - Possession of Weapons
+## - Vehicle Offenses
+## - Drug Offenses
+## - Theft
+
+## MY SOLUTION:
+
+## - Theft

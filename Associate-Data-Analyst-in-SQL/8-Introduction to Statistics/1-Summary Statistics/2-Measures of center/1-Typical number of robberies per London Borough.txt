@@ -1,0 +1,22 @@
+## Exercise
+## Typical number of robberies per London Borough
+
+## Instructions
+## - Identify the value of the mean.
+## - Identify the value of the median.
+## - Choose the correct pair (Mean, Median).
+
+## Given Information
+## - Mean (add all values and divide by number of observations): 1496.16
+## - Mode (most frequent borough): Westminster
+## - Median (middle value after sorting): 1354.5
+
+## Possible Answers
+## - Mean: 1496.16 ; Median: Westminster
+## - Mean: 1354.50 ; Median: 1496.16
+## - Mean: 1496.16 ; Median: 1354.50
+## - Mean: Westminster ; Median: 1354.50
+
+## MY SOLUTION:
+
+## - Mean: 1496.16 ; Median: 1354.50

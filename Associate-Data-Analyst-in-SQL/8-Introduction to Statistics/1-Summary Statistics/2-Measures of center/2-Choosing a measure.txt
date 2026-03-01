@@ -1,0 +1,19 @@
+## Exercise
+## Choosing the correct measure of center
+
+## Instructions
+## - Identify which type of crime has a symmetrical histogram.
+## - Choose the crime type that can be accurately described
+##   by both the mean and the median.
+
+## Possible Answers
+## - Robbery
+## - Drug Offenses
+## - Arson and Criminal Damage
+## - Public Order Offenses
+## - None of these crimes
+
+## MY SOLUTION:
+
+## - None of these crimes
+

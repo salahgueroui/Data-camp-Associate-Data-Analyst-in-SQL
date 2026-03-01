@@ -1,0 +1,19 @@
+## Exercise
+## London Boroughs with most frequent crimes
+
+## Instructions
+## - Identify the London Borough with the highest
+##   number of Vehicle Offenses.
+## - Identify the London Borough with the highest
+##   number of Burglary cases.
+## - Select the correct pair.
+
+## Possible Answers
+## - Vehicle Offenses: Kingston upon Thames ; Burglary: Tower Hamlets
+## - Vehicle Offenses: Hackney ; Burglary: Kingston upon Thames
+## - Vehicle Offenses: Enfield ; Burglary: Greenwich
+## - Vehicle Offenses: Enfield ; Burglary: Tower Hamlets
+
+## MY SOLUTION:
+
+## - Vehicle Offenses: Enfield ; Burglary: Tower Hamlets

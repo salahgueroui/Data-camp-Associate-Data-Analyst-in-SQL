@@ -1,0 +1,20 @@
+## Exercise
+## Which crime has the larger standard deviation
+
+## Instructions
+## - Two histograms are displayed:
+##   one for Public Order Offenses
+##   and one for Miscellaneous Crimes Against Society.
+## - Compare the spread of the distributions.
+## - Select the crime type with the larger standard deviation.
+
+## Possible Answers
+## - It's not possible to determine which has the larger
+##   standard deviation based on the plots.
+## - Miscellaneous Crimes Against Society
+## - Public Order Offenses
+
+## MY SOLUTION:
+
+## - Public Order Offenses
+
