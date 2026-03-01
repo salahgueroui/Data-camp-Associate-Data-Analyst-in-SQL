@@ -1,0 +1,28 @@
+## Exercise
+## Chances of the next sale being more than the mean
+
+## Given Information
+## - Mean order value: $188.50
+## - Number of orders ≥ the median (middle value): 890
+## - Number of orders ≥ the mean (Total Net Sales ÷ number of orders): 406
+## - Total number of orders: 1767
+
+## Instructions
+## - Identify the number of orders
+##   equal to or above the mean.
+## - Identify the total number of orders.
+## - Calculate the probability by dividing:
+##   (number of orders ≥ mean)
+##   by
+##   (total number of orders).
+## - Select the correct percentage from the options.
+
+## Possible Answers
+## - 50.37%
+## - 22.98%
+## - 198.54%
+
+## MY SOLUTION:
+
+406÷1767=0.2298
+## - 22.98%
