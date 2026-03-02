@@ -1,0 +1,29 @@
+## Exercise
+## Recognizing a binomial distribution
+
+## Instructions
+## - Recall that a binomial distribution counts
+##   the number of successes in independent trials.
+## - Choose the scenario that best describes
+##   a binomial distribution.
+## - Select one correct answer.
+
+## Given Information
+## - A binomial distribution involves:
+##   • A fixed number of trials
+##   • Independent events
+##   • Two possible outcomes (success/failure)
+##   • Counting the number of successes
+
+## Question
+## Which scenario represents a binomial distribution?
+
+## Possible Answers
+## - The probability of a train arriving in under 10 minutes.
+## - The probability of a man's height being 175 centimeters or less.
+## - The probability of matching four numbers in the lottery.
+## - The probability of the temperature being more than 80 degrees Celsius.
+
+## MY SOLUTION:
+
+## - The probability of matching four numbers in the lottery.
