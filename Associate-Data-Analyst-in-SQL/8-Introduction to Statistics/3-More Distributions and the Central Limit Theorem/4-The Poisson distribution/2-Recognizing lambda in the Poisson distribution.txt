@@ -1,0 +1,27 @@
+## Exercise
+## Recognizing lambda in the Poisson distribution
+
+## Instructions
+## - Select which plot represents
+##   a Poisson distribution with λ (lambda) = 2.
+## - Choose one answer: A, B, or C.
+
+## Given Information
+## - The Poisson distribution is described by λ (lambda),
+##   which represents the average number of events
+##   in a fixed interval.
+## - Smaller λ values:
+##   • Concentrate probability near 0  
+##   • Are more right-skewed  
+## - Larger λ values:
+##   • Shift the distribution to the right  
+##   • Become more symmetric  
+
+## Plots
+## - Plot A: Distribution of number of events
+## - Plot B: Distribution of number of events
+## - Plot C: Distribution of number of events
+
+## MY SOLUTION:
+
+## - Plot B: Distribution of number of events
