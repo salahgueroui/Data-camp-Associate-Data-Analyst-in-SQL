@@ -1,0 +1,30 @@
+## Exercise
+## When to use the central limit theorem
+
+## Instructions
+## - Select the scenario that would require the use of
+##   the central limit theorem (CLT)
+##   to produce summary statistics that are normally distributed.
+## - Choose one answer.
+
+## Given Information
+## - The CLT is applied when we want the sampling distribution
+##   of a summary statistic (such as the mean or proportion)
+##   to be approximately normal.
+## - The decision depends on:
+##   • Whether we are working with a sample or a full population  
+##   • The type of statistic being calculated  
+##   • The sample size  
+
+## Possible Answers
+## - Finding the mean IQ of all 100 students in a high school.
+## - Measuring the standard deviation of household income
+##   in a road with 20 houses.
+## - Determining the percentage of adults in the USA
+##   that have been diagnosed with Type 2 Diabetes.
+## - Counting the number of babies born with blue eyes
+##   in a hospital within one day.
+
+## MY SOLUTION:
+
+##   that have been diagnosed with Type 2 Diabetes.
