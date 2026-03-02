@@ -1,0 +1,22 @@
+## Exercise
+## Identifying data types
+
+## Instructions
+## - Map each example to its correct data type.
+## - Classify each item as:
+##   Continuous, Nominal, or Ordinal.
+
+## MY SOLUTION:
+
+## Continuous
+## - Height in centimeters
+## - Race car lap time
+
+## Nominal
+## - Employment status
+## - Soccer player position
+
+## Ordinal
+## - Income status – low, middle, high
+## - Customer satisfaction – unsatisfied, neutral, satisfied
+
