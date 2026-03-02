@@ -1,0 +1,39 @@
+## Exercise
+## Recognizing the normal distribution
+
+## Instructions
+## - Four distributions (A, B, C, and D) are shown.
+## - Each plot represents the distribution of schools
+##   achieving various percentages of pass grades.
+## - Identify which distribution does NOT represent
+##   a normal distribution.
+## - Select one correct answer.
+
+## Given Information
+## - A normal distribution is:
+##   • Symmetric
+##   • Bell-shaped
+##   • Centered around the mean
+## - The x-axis represents:
+##   Percentage achieving 9–5 grades.
+## - The y-axis represents:
+##   Count of schools.
+## - Four plots are displayed:
+##   • Distribution of GCSE Scores: A
+##   • Distribution of GCSE Scores: B
+##   • Distribution of GCSE Scores: C
+##   • Distribution of GCSE Scores: D
+
+## Question
+## Which distribution does NOT represent
+## a normal distribution?
+
+## Possible Answers
+## - A
+## - B
+## - C
+## - D
+
+## MY SOLUTION:
+
+## - C
