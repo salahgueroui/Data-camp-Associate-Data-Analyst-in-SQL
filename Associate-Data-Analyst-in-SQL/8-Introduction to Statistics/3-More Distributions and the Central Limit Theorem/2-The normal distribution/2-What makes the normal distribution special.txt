@@ -1,0 +1,22 @@
+## Exercise
+## What makes the normal distribution special?
+
+## Instructions
+## - Classify each fact as either:
+##   Normal Distribution
+##   or
+##   All distributions.
+## - Match each statement to the correct category.
+
+## MY SOLUTION:
+
+## Normal Distribution
+## - Described by the mean and standard deviation.
+## - Symmetrical.
+## - Required for many statistical tests to be performed.
+
+## All Distributions
+## - Displays the probability of possible outcomes for numeric values.
+## - The total area of the distribution equals one.
+## - Probabilities of specific events occurring can be calculated using the area under the curve.
+
