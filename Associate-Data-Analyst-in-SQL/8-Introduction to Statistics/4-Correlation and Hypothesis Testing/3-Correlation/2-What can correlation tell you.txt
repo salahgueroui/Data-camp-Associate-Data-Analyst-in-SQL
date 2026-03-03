@@ -1,0 +1,25 @@
+## Exercise
+## What can correlation tell you?
+
+## Instructions
+## - Choose the statement that accurately describes what can reasonably
+##   be concluded from the visualization.
+## - Select one answer.
+
+## Scenario
+## The plot shows a weak-to-moderate negative relationship between:
+## - Annual hours worked
+## - Cost of a bottle of water (£)
+
+## Your task:
+## Select the statement that correctly interprets this relationship.
+
+## Possible Answers
+## - An increase in the number of hours worked annually causes a decrease in the cost of a bottle of water.
+## - An increase in the number of hours worked annually is related to an increase in the cost of a bottle of water.
+## - A decrease in the cost of a bottle of water causes a decrease in the number of hours worked annually.
+## - An increase in the number of hours worked annually is related to a decrease in the cost of a bottle of water.
+
+## MY SOLUTION:
+
+## - An increase in the number of hours worked annually is related to a decrease in the cost of a bottle of water.
