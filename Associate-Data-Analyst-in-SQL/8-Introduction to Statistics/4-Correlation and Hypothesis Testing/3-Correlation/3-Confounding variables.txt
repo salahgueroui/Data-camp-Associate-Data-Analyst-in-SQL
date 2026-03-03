@@ -1,0 +1,32 @@
+## Exercise
+## Confounding variables
+
+## Instructions
+## - Identify which option could be a confounding variable
+##   in this experiment.
+## - Select one answer.
+
+## Scenario
+## You are investigating the relationship between:
+## - Neighborhood residence
+## - Lung capacity
+
+## Study design:
+## - 30 people from Neighborhood A (located near a highway)
+## - 30 people from Neighborhood B (not near a highway)
+## - Both groups have similar smoking habits
+## - Both groups have a similar gender breakdown
+
+## Your task:
+## Choose which variable could act as a confounding variable.
+
+## Possible Answers
+## - Lung capacity
+## - Neighborhood
+## - Air pollution
+## - Smoking status
+## - Gender
+
+## MY SOLUTION:
+
+## - Air pollution
