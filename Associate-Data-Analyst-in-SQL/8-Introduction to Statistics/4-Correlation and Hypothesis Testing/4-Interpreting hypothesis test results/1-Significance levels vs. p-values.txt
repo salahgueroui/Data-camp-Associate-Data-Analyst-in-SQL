@@ -1,0 +1,24 @@
+## Exercise
+## Significance levels vs. p-values
+
+## Instructions
+## - Match the statements to the correct bucket:
+##   Significance level
+##   or
+##   p-value
+
+## MY SOLUTION:
+
+## Significance level
+## - Also known as alpha.
+## - This is a threshold assigned to represent the probability
+##   of falsely rejecting the null hypothesis.
+## - This is set before data collection.
+
+## p-value
+## - To reject the null hypothesis this value must be less than
+##   or equal to alpha.
+## - This metric is calculated after data has been collected.
+## - This describes the probability of obtaining results at least
+##   as extreme as those observed.
+
