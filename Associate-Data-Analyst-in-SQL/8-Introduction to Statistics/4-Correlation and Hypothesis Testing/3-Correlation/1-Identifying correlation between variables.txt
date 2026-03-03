@@ -1,0 +1,27 @@
+## Exercise
+## Identifying correlation between variables
+
+## Instructions
+## - Describe the Pearson correlation coefficient.
+## - Select the best description of the relationship.
+
+## Scenario
+## You are viewing a scatter plot with a trendline for data about cities.
+## Each data point represents a city.
+
+## The variables shown:
+## - Dependent variable: Cost of a bottle of water (£)
+## - Independent variable: Annual hours worked
+
+## Your task:
+## Describe the correlation between these two variables.
+
+## Possible Answers
+## - Weak-to-moderate positive relationship
+## - Strong negative relationship
+## - Weak-to-moderate negative relationship
+## - Weak positive relationship
+
+## MY SOLUTION:
+
+Weak-to-moderate negative relationship
